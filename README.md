@@ -1,4 +1,4 @@
-Space Invaders
+# Space Invaders
 A classic arcade-style Space Invaders game recreated for learning and fun! Control your ship, blast incoming aliens, and defend earth from invasion.
 Features
 	•	Move your spaceship left and right to dodge enemy fire
